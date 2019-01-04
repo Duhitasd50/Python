@@ -1,0 +1,8 @@
+aComplex = -8.333-1.47j
+print(aComplex.real)
+print(aComplex.imag)
+print(aComplex.conjugate())
+
+solution:-8.333
+-1.47
+(-8.333+1.47j)
